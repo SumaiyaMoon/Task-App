@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031805579871",
+    "project_id": "native-task-app",
+    "storage_bucket": "native-task-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031805579871:android:0d4362781e474bc61321ea",
+        "android_client_info": {
+          "package_name": "com.moontaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCGL7PoPbgQxKPOaG3tb4enGFK_7L1VNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
